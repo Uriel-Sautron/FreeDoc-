@@ -1,24 +1,6 @@
-# README
+FreeDoc - Réserve ton docteur
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Allez, on va implémenter pour de vrai ce concurrent de Doctolib dont on te parle à longueur de ressource ! À toi d'être chirurgical
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ici un model Doctor un model Patient et un model Appointment.
+Les doctors pourront avoir plusieur patients et les patients plusieur doctors, ils seront mis en relations avec un appointment.
